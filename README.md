@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba para el prepcourse de henry modulo 2
+Marco Beltranena
+
+ESto es una prueba para clonar un repositorio desde github hasta nuestro escritorio local.
